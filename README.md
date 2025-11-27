@@ -1,13 +1,14 @@
 ## Hey there 👋
 
-I’m Žan, a development engineer.
+**Who am I?**
+I’m Žan, a development engineer with a strong interest in technical problem-solving and process optimization.
 
-I’m currently focused on learning the Python programming language and expanding my skill set through hands-on problem-solving and experimentation.
+**What am I currently working on?**
+Right now, I’m focused on learning Python and strengthening my foundations in software development.
 
-I enjoy analyzing complex challenges, optimizing processes, and building practical tools that streamline work.
+**What tools do I use?**
+I regularly work with Python, VS Code, Git, and various productivity tools that support structured development workflows.
 
-### Fun Facts:
-
-* I’m always looking for logical, systematic solutions
-* Learning new technologies is part of my daily routine
-* I spend my free time on sports and technical hobby projects
+**How to reach me?**
+You can contact me via:
+📧 zan.vranesic1@gmail.com
