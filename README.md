@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**zvranesic/zvranesic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Žan, a development engineer.
 
-Here are some ideas to get you started:
+I’m currently focused on learning the Python programming language and expanding my skill set through hands-on problem-solving and experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy analyzing complex challenges, optimizing processes, and building practical tools that streamline work.
+
+### Fun Facts:
+
+* I’m always looking for logical, systematic solutions
+* Learning new technologies is part of my daily routine
+* I spend my free time on sports and technical hobby projects
